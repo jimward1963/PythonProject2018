@@ -32,11 +32,11 @@ To run the program in Visual Studio Code, simply type 'python python-project.py'
 
 ## References
 
-(Iris Data) [https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data]
+[Iris Data](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
 
-(Python Tutorial) [https://docs.python.org/3/tutorial/]
+[Python Tutorial](https://docs.python.org/3/tutorial/)
 
-Patrick S. Hoey (Statistical Analysis of the Iris Dataset) [http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf]
+Patrick S. Hoey [Statistical Analysis of the Iris Dataset] (http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf)
 
 https://stackoverflow.com/questions/12444716/how-do-i-set-the-figure-title-and-axes-labels-font-size-in-matplotlib
 
