@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project contains a basic statistical analysis of the (Fisher iris data set) [https://en.wikipedia.org/wiki/Iris_flower_data_set].
+This project contains a basic statistical analysis of the [Fisher iris data set](https://en.wikipedia.org/wiki/Iris_flower_data_set).
 
 This is a set of measurements of the sepal lengthss and widths, and petal lengths and widths of irises, collected by the statistician Ronald Fisher in 1936. This is a multivariate data set introduced by Fisher in his 1936 paper 'The use of multiple measurements in taxonomic problems'.
 A Python program was developed to analyse the data in the set.
