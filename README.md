@@ -19,6 +19,8 @@ Based on the combination of these 4 features, Fisher developed a linear discrimi
 
 The python program developed calculates the mean, maximum value, minimun value and standard deviation of each of the columns of 4 features measured.
 It also provides graphical information in the form of 4 histograms of the measured features. The vertical axes show the Frequency ranges, while the horizontal axes show the Values.
+The Python package numpy was imported into the program to calculate the statistics for the 4 columns.
+The package matplotlib was imported to generate the histogram charts. A reference is provided of a method of assigning labels on the axes of the histogram charts and chart titles.
 
 ### To run the program
 
