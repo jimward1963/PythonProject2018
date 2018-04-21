@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project contains a basic statistical analysis of the [Fisher iris data set] (https://en.wikipedia.org/wiki/Iris_flower_data_set).
+This project contains a basic statistical analysis of the (Fisher iris data set) [https://en.wikipedia.org/wiki/Iris_flower_data_set].
 
 This is a set of measurements of the sepal lengthss and widths, and petal lengths and widths of irises, collected by the statistician Ronald Fisher in 1936. This is a multivariate data set introduced by Fisher in his 1936 paper 'The use of multiple measurements in taxonomic problems'.
 A Python program was developed to analyse the data in the set.
@@ -32,11 +32,11 @@ To run the program in Visual Studio Code, simply type 'python python-project.py'
 
 ## References
 
-[Iris Data] (https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
+(Iris Data) [https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data]
 
-[Python Tutorial] (https://docs.python.org/3/tutorial/)
+(Python Tutorial) [https://docs.python.org/3/tutorial/]
 
-Patrick S. Hoey [Statistical Analysis of the Iris Dataset] (http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf)
+Patrick S. Hoey (Statistical Analysis of the Iris Dataset) [http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf]
 
 https://stackoverflow.com/questions/12444716/how-do-i-set-the-figure-title-and-axes-labels-font-size-in-matplotlib
 
