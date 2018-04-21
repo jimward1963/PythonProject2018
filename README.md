@@ -1,6 +1,6 @@
 # PythonProject2018
 
-## Summary
+## Introduction
 
 This project contains a basic statistical analysis of the [Fisher iris data set](https://en.wikipedia.org/wiki/Iris_flower_data_set).
 
@@ -11,15 +11,15 @@ A Python program was developed to analyse the data in the set.
 
 ### Background to data
 
-
 The data set consists of 50 samples from each of 3 species of Iris (Iris setosa, Iris virginica and Iris versicolor).
 Four features were measured from each sample: the lengths and widths of the petals and sepals, in centimetres.
 Based on the combination of these 4 features, Fisher developed a linear discriminant model to distinguish the species from each other.
 
-
 ## What the Program does
 
-The python program developed calculates the mean, maximum value, minimun value and standard deviation of each of the columns of 4 features measured.
+Column 1 is Sepal length, column 2 is Sepal width, column 3 is Petal length and column 4 is Petal width.
+The program carries out a statistical analysis of these columns.
+The python program developed calculates the mean, maximum value, minimun value and standard deviation of each of the 4 columns.
 It also provides graphical information in the form of 4 histograms of the measured features. The vertical axes show the Frequency ranges, while the horizontal axes show the Values.
 The Python package numpy was imported into the program to calculate the statistics for the 4 columns.
 The package matplotlib was imported to generate the histogram charts. A reference is provided of a method of assigning labels on the axes of the histogram charts and chart titles.
@@ -30,8 +30,11 @@ To run the program in Visual Studio Code, simply type 'python python-project.py'
 
 ## Results
 
+For columns 1 to 4 of the data set, it gives the mean, minimum, maximum and the standard deviation, and produces a histogram chart for each column.
 
 ## Summary/Conclusions
+
+From a viewing of the histograms, it appears the features measured are within certain limits, but the values are not uniform and do not conform to any common distribution.
 
 
 ## References
